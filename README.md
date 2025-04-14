@@ -4,9 +4,7 @@ I'm Daksh, a third-year Computer Science (Co-op) and Economics student at the Un
 
 I have a deep passion for Data Analytics/Data Science, Machine Learning & Software Development. I am proficiency in SQL, Python, R, Java (OOP), C++, JavaScript, HTML, and CSS. 
 
-I enjoy solving complex, time-sensitive problems, which has led me to excel in numerous Datathons, Hackathons, and Case Competitions over the past few years. These experiences have deepened my understanding of many topics, particularly in the areas of Data Science and Machine Learning. 
-
-I completed my first internship as an Algorithmic Trading Intern in Singapore, where I had my first real experience in the industry. In this role, I back-tested strategies for deployment in the financial market, enhancing my analytical and quantitative skills.
+I enjoy solving complex, time-sensitive problems, which has led me to excel in numerous Datathons, Hackathons, and Case Competitions over the past few years. I completed my first internship as an Algorithmic Trading Intern in Singapore, where I back-tested strategies for deployment in the financial market.
 
 - 🔭 I’m currently working on Myself!
 - 💬 Ask me about anything!
