@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Daksh, a third-year Computer Science (Co-op) and Economics student at the University of British Columbia (UBC). 
+I'm Daksh, a third-year Computer Science (Co-op) and Economics student at the University of British Columbia. 
 
 I have a deep passion for Data Analytics/Data Science, Machine Learning & Software Development. I am proficiency in SQL, Python, R, Java (OOP), C++, JavaScript, HTML, and CSS. 
 
