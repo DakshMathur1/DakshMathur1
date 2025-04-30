@@ -2,7 +2,7 @@
 
 I'm Daksh, a third-year Computer Science (Co-op) and Economics student at the University of British Columbia. 
 
-I have a deep passion for Data Analytics/Data Science, Machine Learning & Software Development. I am proficiency in SQL, Python, R, Java (OOP), C++, JavaScript, HTML, and CSS. 
+I am deeply passionate about Data Analytics/Data Science, Machine Learning & Software Development. I am proficient in SQL, Python, R, Java (OOP), C++, JavaScript, HTML, and CSS, as demonstrated through my numerous projects.
 
 I enjoy solving complex, time-sensitive problems, which has led me to excel in numerous Datathons, Hackathons, and Case Competitions over the past few years. I completed my first internship as an Algorithmic Trading Intern in Singapore, where I back-tested strategies for deployment in the financial market.
 
