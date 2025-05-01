@@ -6,7 +6,7 @@ I am deeply passionate about Data Analytics/Data Science, Machine Learning & Sof
 
 I enjoy solving complex, time-sensitive problems, which has led me to excel in numerous Datathons, Hackathons, and Case Competitions over the past few years. I completed my first internship as an Algorithmic Trading Intern in Singapore, where I back-tested & engineered automated live-trading algorithms for deployment in the financial market.
 
-I am now seeking Fall 2025 Co-op opportunities in Data Analytics/Data Science or Software Development, ideally within the Data, Fintech, and Technology sectors.
+I am now seeking Fall 2025 Co-op opportunities in Data Analytics/Data Science or Software Development, ideally within the Data, Fintech, or Technology sectors.
 
 - 🔭 I’m currently working on myself!
 - 💬 Ask me about anything!
